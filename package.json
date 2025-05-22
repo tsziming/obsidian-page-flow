@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-page-flow",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Visual page separation for your Obsidian notes like in Google Docs style.",
 	"main": "main.js",
 	"scripts": {
