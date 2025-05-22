@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "page-flow",
+	"name": "Page Flow",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "Visual page separation for your Obsidian notes like in Google Docs style.",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"authorUrl": "https://github.com/tsziming",
+	"fundingUrl": "https://patreon.com/tsziming",
 	"isDesktopOnly": false
 }
