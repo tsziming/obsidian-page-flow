@@ -3,7 +3,7 @@
 	"name": "Page Flow",
 	"version": "1.0.4",
 	"minAppVersion": "0.15.0",
-	"description": "Visual page separation for your Obsidian notes like in Google Docs style.",
+	"description": "Visual page separation for your notes in Google Docs style.",
 	"author": "tsziming",
 	"authorUrl": "https://github.com/tsziming",
 	"fundingUrl": "https://patreon.com/tsziming",
