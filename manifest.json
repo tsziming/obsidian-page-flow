@@ -1,7 +1,7 @@
 {
 	"id": "page-flow",
 	"name": "Page Flow",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"minAppVersion": "0.15.0",
 	"description": "Visual page separation for your notes in Google Docs style.",
 	"author": "tsziming",
